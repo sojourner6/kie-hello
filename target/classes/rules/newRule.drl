@@ -1,0 +1,12 @@
+//created on: Jan 24, 2018
+package com.rules
+
+rule "A stand alone rule"
+
+    when
+        //conditions
+    then
+        //actions
+
+end
+
